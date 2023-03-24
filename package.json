@@ -1,0 +1,22 @@
+{
+  "name": "twitch-chat-tiktok-video-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilverStar07/Twitch-Chat-TikTok-Video-Bot.git"
+  },
+  "author": "SirSilverStar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilverStar07/Twitch-Chat-TikTok-Video-Bot/issues"
+  },
+  "homepage": "https://github.com/SilverStar07/Twitch-Chat-TikTok-Video-Bot#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
