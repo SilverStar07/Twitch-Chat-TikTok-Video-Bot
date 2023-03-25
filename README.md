@@ -1,6 +1,6 @@
 # Twitch Chat TikTok Video Bot
 
-This project was created for [this video tutorial on giving your Twitch chat the ability to create your TikToks, YouTube Shorts, and Instagram Reels](). It will explain all of the finer details of how the system works as well as share additional resources. If you have any questions or feedback on how I can make this better or clearer, comment on the video above or [DM me on Twitter](https://twitter.com/SirSilverStar).
+This project was created for [this video tutorial on giving your Twitch chat the ability to create your TikToks, YouTube Shorts, and Instagram Reels](https://youtu.be/uCiyWZZvDgQ). It will explain all of the finer details of how the system works as well as share additional resources. If you have any questions or feedback on how I can make this better or clearer, comment on the video above or [DM me on Twitter](https://twitter.com/SirSilverStar).
 
 If this has helped you, please consider following on the places I make things and say hi!
 - [YouTube](https://www.youtube.com/@SirSilverStar) (If you'd like to see how to make your own Twitch bot from scratch, [check out this playlist](https://youtube.com/playlist?list=PLKaXzzk7E_iWKXDe4DQAVx9m-l1yZhEL5)!)
